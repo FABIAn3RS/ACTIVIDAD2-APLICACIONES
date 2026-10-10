@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Cuadrícula de Cursos</string>
+    <string name="architecture">Arquitectura</string>
+    <string name="business">Negocios</string>
+    <string name="crafts">Artesanías</string>
+    <string name="culinary">Gastronomía</string>
+    <string name="design">Diseño</string>
+    <string name="drawing">Dibujo</string>
+    <string name="ecology">Ecología</string>
+    <string name="engineering">Ingeniería</string>
+    <string name="fashion">Moda</string>
+    <string name="film">Cine</string>
+    <string name="finance">Finanzas</string>
+    <string name="gaming">Videojuegos</string>
+    <string name="history">Historia</string>
+    <string name="lifestyle">Estilo de vida</string>
+    <string name="music">Música</string>
+    <string name="painting">Pintura</string>
+    <string name="photography">Fotografía</string>
+    <string name="tech">Tecnología</string>
+    <style name="Theme.ActividadCuadricula" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

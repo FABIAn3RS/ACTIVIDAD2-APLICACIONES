@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cuadrícula de Cursos</string>
+    <string name="architecture">Arquitectura</string>
+    <string name="crafts">Artesanías</string>
+    <string name="business">Negocios</string>
+    <string name="culinary">Gastronomía</string>
+    <string name="design">Diseño</string>
+    <string name="fashion">Moda</string>
+    <string name="film">Cine</string>
+    <string name="gaming">Videojuegos</string>
+    <string name="drawing">Dibujo</string>
+    <string name="lifestyle">Estilo de vida</string>
+    <string name="music">Música</string>
+    <string name="painting">Pintura</string>
+    <string name="photography">Fotografía</string>
+    <string name="tech">Tecnología</string>
+    <string name="history">Historia</string>
+    <string name="ecology">Ecología</string>
+    <string name="engineering">Ingeniería</string>
+    <string name="finance">Finanzas</string>
+</resources>
