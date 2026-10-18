@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Nick the Night Owl</string>
+    <string name="description1">The Night Owl is known for its ability to see in the dark and its keen senses.</string>
+    <string name="hero2">Reality Rerouter</string>
+    <string name="description2">The Reality Rerouter can bend reality to their will, changing the world around them.</string>
+    <string name="hero3">Andre the Awesome</string>
+    <string name="description3">Andre the Awesome is endowed with super strength and incredible agility.</string>
+    <string name="hero4">Benjamin the Brave</string>
+    <string name="description4">Benjamin the Brave possesses uncanny courage and the power of lightning.</string>
+    <string name="hero5">Kiran the Quick</string>
+    <string name="description5">Kiran the Quick moves faster than the speed of light, dodging any danger.</string>
+    <string name="hero6">Yen the Yodeler</string>
+    <string name="description6">Yen the Yodeler can shatter glass and disorient enemies with their powerful voice.</string>
+</resources>
