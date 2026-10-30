@@ -13,11 +13,25 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.reply.ui.utils
+package com.example.reply.test
 
 /**
- * Different type of navigation supported by app depending on size and state.
+ * Custom annotation for tests targeted at compact width devices.
  */
-enum class ReplyNavigationType {
-    BOTTOM_NAVIGATION, NAVIGATION_RAIL, PERMANENT_NAVIGATION_DRAWER
-}
+@Target(AnnotationTarget.FUNCTION)
+@Retention(AnnotationRetention.RUNTIME)
+annotation class TestCompactWidth
+
+/**
+ * Custom annotation for tests targeted at medium width devices.
+ */
+@Target(AnnotationTarget.FUNCTION)
+@Retention(AnnotationRetention.RUNTIME)
+annotation class TestMediumWidth
+
+/**
+ * Custom annotation for tests targeted at expanded width devices.
+ */
+@Target(AnnotationTarget.FUNCTION)
+@Retention(AnnotationRetention.RUNTIME)
+annotation class TestExpandedWidth
